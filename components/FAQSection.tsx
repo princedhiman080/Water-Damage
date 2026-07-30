@@ -40,7 +40,7 @@ const defaultFaqs: FAQItem[] = [
 
 export function FAQSection({
   faqs = defaultFaqs,
-  title = "Frequently Asked Questions (Chicago Water Damage)",
+  title = "Frequently Asked Questions",
   subtitle = "Direct answers to common questions about costs, response times, and insurance coverage."
 }: FAQSectionProps) {
   const [openIndex, setOpenIndex] = useState<number | null>(0);

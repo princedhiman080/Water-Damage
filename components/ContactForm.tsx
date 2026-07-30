@@ -155,7 +155,7 @@ export function ContactForm({
                 id="phone"
                 name="phone"
                 required
-                placeholder="(312) 555-0199"
+                placeholder="(000) 000-0000"
                 value={formData.phone}
                 onChange={handleChange}
                 className="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:ring-2 focus:ring-sky-500 text-slate-900 text-xs sm:text-sm outline-none transition"

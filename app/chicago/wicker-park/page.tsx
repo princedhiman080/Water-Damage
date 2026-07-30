@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration Wicker Park Chicago | 60622 Cleanup',
-  description: 'Emergency water damage restoration in Wicker Park, Chicago (60622). Commercial & residential water extraction, structural drying & mold removal. Call (312) 555-0199.',
+  description: 'Emergency water damage restoration in Wicker Park, Chicago (60622). Commercial & residential water extraction, structural drying & mold removal. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/wicker-park`,
   },

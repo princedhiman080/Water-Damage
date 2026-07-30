@@ -6,7 +6,7 @@ import { ContactForm } from '@/components/ContactForm';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Chicago 24/7 Water Damage Emergency Hotline',
-  description: 'Get in touch with Chicago Water Damage Restoration for 24/7 emergency service dispatch or free on-site estimates. Call (312) 555-0199.',
+  description: 'Get in touch with Chicago Water Damage Restoration for 24/7 emergency service dispatch or free on-site estimates. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/contact`,
   },

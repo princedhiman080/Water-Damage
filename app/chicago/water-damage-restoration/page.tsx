@@ -9,7 +9,7 @@ import { ChicagoMapGrid } from '@/components/ChicagoMapGrid';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration Chicago, IL | Citywide 24/7 Response',
-  description: 'Citywide water damage restoration services in Chicago, IL. Serving all 77 community areas with 60-minute emergency arrival. Direct insurance billing. Call (312) 555-0199.',
+  description: 'Citywide water damage restoration services in Chicago, IL. Serving all 77 community areas with 60-minute emergency arrival. Direct insurance billing. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/water-damage-restoration`,
   },

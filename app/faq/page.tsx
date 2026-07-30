@@ -26,7 +26,7 @@ const comprehensiveFaqs = [
   },
   {
     question: "What should I do immediately after discovering a water leak in my home?",
-    answer: "1) Shut off the main water valve immediately. 2) Turn off electricity to flooded rooms at the circuit breaker. 3) Call our 24/7 hotline at (312) 555-0199. 4) Take photos of damage for insurance. 5) Avoid walking through contaminated standing water."
+    answer: "1) Shut off the main water valve immediately. 2) Turn off electricity to flooded rooms at the circuit breaker. 3) Call our 24/7 hotline at (000) 000-0000. 4) Take photos of damage for insurance. 5) Avoid walking through contaminated standing water."
   },
   {
     question: "Can carpet and hardwood floors be saved after water damage?",

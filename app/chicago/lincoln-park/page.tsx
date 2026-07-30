@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration Lincoln Park Chicago | 60614 Cleanup',
-  description: 'Emergency water damage restoration in Lincoln Park, Chicago (60614). 24/7 burst pipe repair, basement flood extraction & direct insurance billing. Call (312) 555-0199.',
+  description: 'Emergency water damage restoration in Lincoln Park, Chicago (60614). 24/7 burst pipe repair, basement flood extraction & direct insurance billing. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/lincoln-park`,
   },

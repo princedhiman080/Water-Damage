@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration Logan Square Chicago | 60647 Cleanup',
-  description: 'Emergency water damage restoration in Logan Square, Chicago (60647). Flooded basement extraction, burst pipe repair & mold prevention. Call (312) 555-0199.',
+  description: 'Emergency water damage restoration in Logan Square, Chicago (60647). Flooded basement extraction, burst pipe repair & mold prevention. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/logan-square`,
   },

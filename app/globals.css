@@ -13,6 +13,44 @@
   }
 }
 
+/* Enhancing Blog Typography Spacing & Visual Readability */
+.prose p {
+  margin-bottom: 1.75rem !important;
+  line-height: 1.85 !important;
+  color: #334155 !important;
+  font-size: 1.05rem !important;
+}
+
+.prose h2 {
+  margin-top: 3rem !important;
+  margin-bottom: 1.25rem !important;
+  padding-bottom: 0.75rem !important;
+  border-bottom: 2px solid #e2e8f0 !important;
+  color: #0f172a !important;
+  font-weight: 800 !important;
+}
+
+.prose h3 {
+  margin-top: 2.25rem !important;
+  margin-bottom: 1rem !important;
+  color: #1e293b !important;
+  font-weight: 700 !important;
+}
+
+.prose ul, .prose ol {
+  margin-top: 1.25rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.prose li {
+  margin-bottom: 0.75rem !important;
+  line-height: 1.75 !important;
+}
+
+.prose section {
+  margin-bottom: 3.5rem !important;
+}
+
 /* Custom Micro-animations & Aesthetics */
 @keyframes pulse-subtle {
   0%, 100% { opacity: 1; }

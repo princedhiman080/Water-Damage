@@ -63,7 +63,7 @@ export default function ArticleFirst24Hours() {
             Step 3: Call Professional Water Extraction Immediately
           </h2>
           <p>
-            Household vacuums and fans cannot pull moisture out of subflooring, wall studs, or carpet padding. Call our 24/7 hotline at <strong>(312) 555-0199</strong> so certified restoration technicians can deploy industrial truck-mounted pumps and LGR dehumidifiers.
+            Household vacuums and fans cannot pull moisture out of subflooring, wall studs, or carpet padding. Call our 24/7 hotline at <strong>(000) 000-0000</strong> so certified restoration technicians can deploy industrial truck-mounted pumps and LGR dehumidifiers.
           </p>
 
           <div className="bg-slate-900 text-white rounded-3xl p-6 sm:p-8 space-y-4 mt-8 text-center">

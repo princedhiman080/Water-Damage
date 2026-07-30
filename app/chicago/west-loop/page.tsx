@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration West Loop Chicago | 60607 Cleanup',
-  description: 'Emergency water damage restoration in West Loop, Chicago (60607). High-rise loft water removal, commercial flood extraction & structural drying. Call (312) 555-0199.',
+  description: 'Emergency water damage restoration in West Loop, Chicago (60607). High-rise loft water removal, commercial flood extraction & structural drying. Call (000) 000-0000.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/west-loop`,
   },
