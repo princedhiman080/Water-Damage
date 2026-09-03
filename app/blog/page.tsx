@@ -28,7 +28,7 @@ export default function BlogIndexPage() {
         {/* Header Title Section */}
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <span className="text-xs font-extrabold tracking-widest text-sky-600 uppercase bg-sky-100 px-3.5 py-1.5 rounded-full border border-sky-200">
-            Resource Center & Knowledge Hub (20 Articles)
+            Resource Center & Knowledge Hub ({blogPosts.length} Articles)
           </span>
           <h1 className="text-3xl sm:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
             Chicago Water Damage Restoration Guides & Expert Advice
