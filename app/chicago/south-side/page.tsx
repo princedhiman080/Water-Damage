@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration South Side Chicago | Emergency Cleanup',
-  description: 'Emergency water damage restoration across South Side Chicago (Hyde Park, Bronzeville, Beverly). 24/7 flood cleanup & basement water extraction. Call (000) 000-0000.',
+  description: 'Emergency water damage restoration across South Side Chicago (Hyde Park, Bronzeville, Beverly). 24/7 flood cleanup & basement water extraction. Call (630) 241-6800.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/south-side`,
   },
@@ -36,7 +36,7 @@ export default function SouthSidePage() {
           <div className="lg:col-span-7 space-y-5">
             <div className="inline-flex items-center space-x-2 bg-sky-500/20 text-sky-400 text-xs font-bold px-3 py-1 rounded-full border border-sky-500/30 uppercase tracking-wider">
               <MapPin className="w-4 h-4" />
-              <span>South Side Chicago • Hyde Park, Bronzeville & Beyond</span>
+              <span>South Side Chicago â€¢ Hyde Park, Bronzeville & Beyond</span>
             </div>
             <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight">
               Water Damage Restoration in South Side Chicago

@@ -9,7 +9,7 @@ import { ChicagoMapGrid } from '@/components/ChicagoMapGrid';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration Chicago, IL | Citywide 24/7 Response',
-  description: 'Citywide water damage restoration services in Chicago, IL. Serving all 77 community areas with 60-minute emergency arrival. Direct insurance billing. Call (000) 000-0000.',
+  description: 'Citywide water damage restoration services in Chicago, IL. Serving all 77 community areas with 60-minute emergency arrival. Direct insurance billing. Call (630) 241-6800.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/water-damage-restoration`,
   },
@@ -65,7 +65,7 @@ export default function ChicagoCityPage() {
             Fast Response Across All 77 Chicago Community Areas
           </h2>
           <p className="text-base text-slate-600 leading-relaxed">
-            Chicago weather brings extreme seasonal challenges—from freezing sub-zero winter temperatures that rupture uninsulated water pipes to intense summer thunderstorms that overwhelm city storm sewers. Our local restoration technicians are strategically stationed throughout Cook County for rapid response.
+            Chicago weather brings extreme seasonal challengesâ€”from freezing sub-zero winter temperatures that rupture uninsulated water pipes to intense summer thunderstorms that overwhelm city storm sewers. Our local restoration technicians are strategically stationed throughout Cook County for rapid response.
           </p>
         </div>
       </section>

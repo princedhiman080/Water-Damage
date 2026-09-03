@@ -8,7 +8,7 @@ import { FAQSection } from '@/components/FAQSection';
 
 export const metadata: Metadata = {
   title: 'Water Damage Restoration West Loop Chicago | 60607 Cleanup',
-  description: 'Emergency water damage restoration in West Loop, Chicago (60607). High-rise loft water removal, commercial flood extraction & structural drying. Call (000) 000-0000.',
+  description: 'Emergency water damage restoration in West Loop, Chicago (60607). High-rise loft water removal, commercial flood extraction & structural drying. Call (630) 241-6800.',
   alternates: {
     canonical: `${siteConfig.url}/chicago/west-loop`,
   },
@@ -36,7 +36,7 @@ export default function WestLoopPage() {
           <div className="lg:col-span-7 space-y-5">
             <div className="inline-flex items-center space-x-2 bg-sky-500/20 text-sky-400 text-xs font-bold px-3 py-1 rounded-full border border-sky-500/30 uppercase tracking-wider">
               <MapPin className="w-4 h-4" />
-              <span>West Loop, Chicago • ZIP 60607</span>
+              <span>West Loop, Chicago â€¢ ZIP 60607</span>
             </div>
             <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight">
               Water Damage Restoration in West Loop, Chicago

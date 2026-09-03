@@ -25,7 +25,7 @@ export default function BlogFrozenPipesPage() {
 
   const tocItems = [
     { id: 'understanding-chicago-freeze-risk', title: '1. The Physics of Chicago Freeze Snaps & Housing Stock' },
-    { id: 'tip-1-thermostat', title: '2. Keep Thermostats Above 55°F at All Times' },
+    { id: 'tip-1-thermostat', title: '2. Keep Thermostats Above 55Â°F at All Times' },
     { id: 'tip-2-drip-faucets', title: '3. Drip Faucets During Extreme Sub-Zero Snaps' },
     { id: 'tip-3-insulate-pipes', title: '4. Insulate Exposed Exterior Pipes & Crawlspaces' },
     { id: 'tip-4-cabinet-ventilation', title: '5. Cabinet Ventilation & Room Heating Strategies' },
@@ -51,7 +51,7 @@ export default function BlogFrozenPipesPage() {
               <div className="flex items-center space-x-3 text-xs text-slate-500">
                 <span className="bg-sky-100 text-sky-800 px-3 py-1 rounded-full font-bold uppercase">Winterization Guide</span>
                 <span>July 30, 2026</span>
-                <span>• 12 min read</span>
+                <span>â€¢ 12 min read</span>
               </div>
               <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
                 How to Prevent Frozen Burst Pipes During Chicago Winters
@@ -98,13 +98,13 @@ export default function BlogFrozenPipesPage() {
                   Coupled with intense wind gusts sweeping off Lake Michigan across neighborhoods like Lincoln Park, Lakeview, and Hyde Park, the chilling effect on exterior building facades is amplified dramatically. Cold air forces its way through microscopic masonry cracks, unsealed sill plates, and uninsulated wall cavities where water supply lines are routed.
                 </p>
                 <p>
-                  Furthermore, Chicago's distinct architectural heritage—ranging from historic 19th-century brownstones and classic brick two-flats to post-war bungalows—features construction methods that require specific winter care. Older masonry construction often lacks modern cavity insulation. 
+                  Furthermore, Chicago's distinct architectural heritageâ€”ranging from historic 19th-century brownstones and classic brick two-flats to post-war bungalowsâ€”features construction methods that require specific winter care. Older masonry construction often lacks modern cavity insulation. 
                 </p>
                 <p>
-                  When plaster walls separate indoor living spaces from freezing brick exteriors, copper pipes housed within those wall cavities can quickly drop below 32°F (0°C). Water trapped inside the pipe begins to crystallize, expanding by roughly 9% in volume. 
+                  When plaster walls separate indoor living spaces from freezing brick exteriors, copper pipes housed within those wall cavities can quickly drop below 32Â°F (0Â°C). Water trapped inside the pipe begins to crystallize, expanding by roughly 9% in volume. 
                 </p>
                 <p>
-                  If an ice dam forms, the static water trapped between the ice blockage and a closed faucet builds extreme hydraulic pressure—frequently exceeding 2,000 pounds per square inch—until the metal wall ruptures catastrophically, requiring immediate <Link href="/" className="text-sky-600 font-semibold hover:underline">Water Damage Restoration Chicago</Link>.
+                  If an ice dam forms, the static water trapped between the ice blockage and a closed faucet builds extreme hydraulic pressureâ€”frequently exceeding 2,000 pounds per square inchâ€”until the metal wall ruptures catastrophically, requiring immediate <Link href="/" className="text-sky-600 font-semibold hover:underline">Water Damage Restoration Chicago</Link>.
                 </p>
 
                 {/* Architecture Vulnerability Grid */}
@@ -142,16 +142,16 @@ export default function BlogFrozenPipesPage() {
 
               <section id="tip-1-thermostat">
                 <h2 className="text-3xl font-bold text-slate-900 mt-12 mb-6">
-                  2. Keep Thermostats Above 55°F at All Times
+                  2. Keep Thermostats Above 55Â°F at All Times
                 </h2>
                 <p>
                   One of the most frequent causes of burst pipes during Chicago winters occurs when property owners travel for winter vacations or attempt to save money on heating bills by turning off their HVAC systems completely. 
                 </p>
                 <p>
-                  Lowering the interior thermostat below 55°F (13°C) allows perimeter wall cavities, unheated utility closets, and floor voids to plunge below freezing, even if the center of the living room feels mildly cool.
+                  Lowering the interior thermostat below 55Â°F (13Â°C) allows perimeter wall cavities, unheated utility closets, and floor voids to plunge below freezing, even if the center of the living room feels mildly cool.
                 </p>
                 <p>
-                  To maintain structural warmth, set your thermostat to a minimum of 55°F—and ideally between 65°F and 68°F during active polar vortex advisories. 
+                  To maintain structural warmth, set your thermostat to a minimum of 55Â°Fâ€”and ideally between 65Â°F and 68Â°F during active polar vortex advisories. 
                 </p>
                 <p>
                   If you are away from home, leave your heating system running in auto mode, replace furnace air filters before departing, and ensure all interior interior doors remain open so warm air circulates evenly to every corner of the house.
@@ -193,15 +193,15 @@ export default function BlogFrozenPipesPage() {
                   </h4>
                   <ul className="space-y-2 text-sm text-emerald-800">
                     <li className="flex items-start gap-2">
-                      <span className="font-bold text-emerald-600">✓</span>
+                      <span className="font-bold text-emerald-600">âœ“</span>
                       <span><strong>Select Target Fixtures:</strong> Choose faucets served by pipes running through outside walls or unheated crawlspaces.</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="font-bold text-emerald-600">✓</span>
+                      <span className="font-bold text-emerald-600">âœ“</span>
                       <span><strong>Drip Cold Water Line:</strong> Turn the cold water tap slightly until a thin, steady trickle or rapid drip is sustained.</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="font-bold text-emerald-600">✓</span>
+                      <span className="font-bold text-emerald-600">âœ“</span>
                       <span><strong>Check Floor Drains:</strong> Ensure sink drains are clear and unobstructed so dripping water flows freely into municipal drains without causing sink overflows.</span>
                     </li>
                   </ul>
@@ -219,7 +219,7 @@ export default function BlogFrozenPipesPage() {
                   Simply slip the foam sleeve over exposed copper or PEX supply lines and seal the longitudinal joints with specialized acrylic pipe tape or duct tape.
                 </p>
                 <p>
-                  For extra-vulnerable pipes located near exterior draft sources, install self-regulating heat cables (heat tape) beneath the foam insulation. Modern thermostatically controlled heat cables automatically activate when pipe temperatures fall below 38°F (3°C), supplying gentle electric warmth to prevent ice formation even during historic polar vortex events.
+                  For extra-vulnerable pipes located near exterior draft sources, install self-regulating heat cables (heat tape) beneath the foam insulation. Modern thermostatically controlled heat cables automatically activate when pipe temperatures fall below 38Â°F (3Â°C), supplying gentle electric warmth to prevent ice formation even during historic polar vortex events.
                 </p>
 
                 {/* Insulation R-Value Cards */}
@@ -237,7 +237,7 @@ export default function BlogFrozenPipesPage() {
                   <div className="bg-sky-50 border border-sky-200 rounded-xl p-5 shadow-sm text-center">
                     <h4 className="font-bold text-sky-900 text-base mb-1">Self-Regulating Heat Tape</h4>
                     <p className="text-xs text-sky-700 mb-2">Active electrical heating for severe sub-zero exposure.</p>
-                    <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-2 py-1 rounded">Active 38°F Thermostat</span>
+                    <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-2 py-1 rounded">Active 38Â°F Thermostat</span>
                   </div>
                 </div>
               </section>
@@ -253,7 +253,7 @@ export default function BlogFrozenPipesPage() {
                   During sub-zero cold spells, open all kitchen and bathroom cabinet doors under exterior wall sinks. This simple, zero-cost action allows ambient room heat to circulate around the pipes, raising the temperature inside the wall cavity by 10 to 15 degrees. 
                 </p>
                 <p>
-                  Additionally, place portable space heaters safely nearby in unheated laundry rooms or utility closets—ensuring they are kept at least 3 feet away from combustible materials and monitored at all times.
+                  Additionally, place portable space heaters safely nearby in unheated laundry rooms or utility closetsâ€”ensuring they are kept at least 3 feet away from combustible materials and monitored at all times.
                 </p>
               </section>
 
@@ -319,7 +319,7 @@ export default function BlogFrozenPipesPage() {
                     </thead>
                     <tbody className="divide-y divide-slate-200 bg-white">
                       <tr className="hover:bg-slate-50 transition-colors">
-                        <td className="px-5 py-4 font-bold text-slate-900 bg-slate-50/50">Thermostat Maintenance (55°F+)</td>
+                        <td className="px-5 py-4 font-bold text-slate-900 bg-slate-50/50">Thermostat Maintenance (55Â°F+)</td>
                         <td className="px-5 py-4 text-slate-600">Whole-house HVAC system</td>
                         <td className="px-5 py-4 text-slate-600">Continuous through winter season</td>
                         <td className="px-5 py-4 text-emerald-800 font-bold bg-emerald-50/30">Essential baseline prevention</td>
@@ -365,7 +365,7 @@ export default function BlogFrozenPipesPage() {
             <BlogTableOfContents items={tocItems} />
             <div className="bg-slate-900 text-white rounded-3xl p-6 shadow-xl space-y-3 border border-slate-800">
               <h3 className="text-xl font-bold">Pipe Ruptured in Chicago?</h3>
-              <p className="text-xs text-slate-300">Call (000) 000-0000 for 60-minute immediate water extraction.</p>
+              <p className="text-xs text-slate-300">Call (630) 241-6800 for 60-minute immediate water extraction.</p>
               <a href={`tel:${siteConfig.phoneTel}`} className="block text-center bg-red-600 hover:bg-red-700 text-white font-extrabold py-3 rounded-xl text-sm shadow-md transition">
                 CALL {siteConfig.phone} (24/7)
               </a>

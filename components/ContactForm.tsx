@@ -49,10 +49,15 @@ export function ContactForm({
     }
 
     try {
+      const payload = {
+        ...formData,
+        sourcePage: window.location.href,
+      };
+
       const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify(payload),
       });
 
       const data = await res.json();
@@ -155,7 +160,7 @@ export function ContactForm({
                 id="phone"
                 name="phone"
                 required
-                placeholder="(000) 000-0000"
+                placeholder="(630) 241-6800"
                 value={formData.phone}
                 onChange={handleChange}
                 className="w-full px-3.5 py-2.5 rounded-xl border border-slate-300 focus:ring-2 focus:ring-sky-500 text-slate-900 text-xs sm:text-sm outline-none transition"
@@ -284,7 +289,7 @@ export function ContactForm({
           </button>
 
           <p className="text-[11px] text-slate-400 text-center mt-1.5 leading-tight">
-            🔒 Your privacy is respected. Direct phone response within 5-15 mins.
+            ðŸ”’ Your privacy is respected. Direct phone response within 5-15 mins.
           </p>
         </form>
       )}

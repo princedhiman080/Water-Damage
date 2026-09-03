@@ -33,13 +33,13 @@ export default function ArticleFirst24Hours() {
             What to Do in the First 24 Hours After Water Damage in Chicago
           </h1>
           <p className="text-slate-500 text-sm">
-            Published by Chicago Water Damage Restoration • 5 min read
+            Published by Chicago Water Damage Restoration â€¢ 5 min read
           </p>
         </div>
 
         <div className="prose prose-slate max-w-none space-y-6 text-base leading-relaxed">
           <p className="text-lg text-slate-700 font-medium">
-            Discovering standing water in your Chicago home—whether from a frozen winter pipe break or a flooded basement—triggers immediate panic. However, your actions during the first 24 hours dictate whether your property suffers minimal repairs or long-term structural decay and toxic black mold growth.
+            Discovering standing water in your Chicago homeâ€”whether from a frozen winter pipe break or a flooded basementâ€”triggers immediate panic. However, your actions during the first 24 hours dictate whether your property suffers minimal repairs or long-term structural decay and toxic black mold growth.
           </p>
 
           <div className="bg-red-50 border-l-4 border-red-600 p-5 rounded-r-2xl space-y-2">
@@ -63,7 +63,7 @@ export default function ArticleFirst24Hours() {
             Step 3: Call Professional Water Extraction Immediately
           </h2>
           <p>
-            Household vacuums and fans cannot pull moisture out of subflooring, wall studs, or carpet padding. Call our 24/7 hotline at <strong>(000) 000-0000</strong> so certified restoration technicians can deploy industrial truck-mounted pumps and LGR dehumidifiers.
+            Household vacuums and fans cannot pull moisture out of subflooring, wall studs, or carpet padding. Call our 24/7 hotline at <strong>(630) 241-6800</strong> so certified restoration technicians can deploy industrial truck-mounted pumps and LGR dehumidifiers.
           </p>
 
           <div className="bg-slate-900 text-white rounded-3xl p-6 sm:p-8 space-y-4 mt-8 text-center">

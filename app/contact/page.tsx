@@ -6,7 +6,7 @@ import { ContactForm } from '@/components/ContactForm';
 
 export const metadata: Metadata = {
   title: 'Contact Us | Chicago 24/7 Water Damage Emergency Hotline',
-  description: 'Get in touch with Chicago Water Damage Restoration for 24/7 emergency service dispatch or free on-site estimates. Call (000) 000-0000.',
+  description: 'Get in touch with Chicago Water Damage Restoration for 24/7 emergency service dispatch or free on-site estimates. Call (630) 241-6800.',
   alternates: {
     canonical: `${siteConfig.url}/contact`,
   },
@@ -27,7 +27,7 @@ export default function ContactPage() {
               Contact Chicago Water Damage Restoration
             </h1>
             <p className="text-slate-600 mt-3 text-base leading-relaxed">
-              Facing an active burst pipe or basement flood? Don't wait for form emails—call our 24/7 emergency dispatch line for instant response.
+              Facing an active burst pipe or basement flood? Don't wait for form emailsâ€”call our 24/7 emergency dispatch line for instant response.
             </p>
           </div>
 
