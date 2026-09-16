@@ -176,7 +176,7 @@ export default function BlogPage() {
             <div className="bg-slate-900 text-white rounded-3xl p-6 shadow-xl space-y-3">
               <h3 className="text-xl font-bold">24/7 Emergency Dispatch</h3>
               <p className="text-xs text-slate-300">60-minute arrival guaranteed in Chicago.</p>
-              <a href={\`tel:\${siteConfig.phoneTel}\`} className="block text-center bg-red-600 hover:bg-red-700 text-white font-extrabold py-3 rounded-xl text-sm shadow">CALL {siteConfig.phone} (24/7)</a>
+              <a href={`tel:${siteConfig.phoneTel}`} className="block text-center bg-red-600 hover:bg-red-700 text-white font-extrabold py-3 rounded-xl text-sm shadow">CALL {siteConfig.phone} (24/7)</a>
             </div>
           </div>
         </div>
