@@ -11,6 +11,56 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    title: "Is Water Damage Restoration Worth It? | Chicago Homeowner Guide",
+    slug: "/blog/is-water-damage-restoration-worth-it-chicago",
+    excerpt: "Wondering if water damage restoration is worth the cost? See how it affects home value, insurance, and long-term safety for Chicago homeowners before you decide.",
+    category: "Homeowner Guide",
+    date: "September 16, 2026",
+    readTime: "7 min read",
+    author: "Chicago Restoration Team",
+    image: "/images/blog/worth-it.webp",
+  },
+  {
+    title: "How to Choose a Water Damage Restoration Company in Chicago",
+    slug: "/blog/how-to-choose-water-damage-restoration-company-chicago",
+    excerpt: "Not all restoration companies are equal. Learn the 7 things to check before hiring a water damage restoration company in Chicago, from certifications to insurance help.",
+    category: "Buyer's Guide",
+    date: "September 16, 2026",
+    readTime: "8 min read",
+    author: "Chicago Network Team",
+    image: "/images/blog/choose-company.webp",
+  },
+  {
+    title: "What Not to Do After Water Damage | 7 Common Mistakes",
+    slug: "/blog/what-not-to-do-after-water-damage-chicago",
+    excerpt: "Avoid these 7 common mistakes after water damage in your Chicago home, from using the wrong equipment to waiting too long to call for help.",
+    category: "Mistakes to Avoid",
+    date: "September 16, 2026",
+    readTime: "6 min read",
+    author: "Chicago Restoration Team",
+    image: "/images/blog/what-not-to-do.webp",
+  },
+  {
+    title: "Can Water Damage Be Repaired? Is It Permanent or Reversible?",
+    slug: "/blog/can-water-damage-be-repaired-chicago",
+    excerpt: "Wondering if your water damage can be fixed or if it's permanent? Learn what qualifies as water damage, what can be reversed, and when replacement is necessary.",
+    category: "Restoration Guide",
+    date: "September 16, 2026",
+    readTime: "8 min read",
+    author: "Chicago Restoration Team",
+    image: "/images/blog/repairable-or-permanent.webp",
+  },
+  {
+    title: "How Long Does Water Damage Restoration Take? | Timeline Guide",
+    slug: "/blog/how-long-does-water-damage-restoration-take-chicago",
+    excerpt: "From inspection to final repairs, here's a realistic timeline for water damage restoration in Chicago, including how long mold takes to grow and what speeds up the process.",
+    category: "Timeline Guide",
+    date: "September 16, 2026",
+    readTime: "7 min read",
+    author: "Drying Specialists",
+    image: "/images/blog/how-long.webp",
+  },
+  {
     title: "Water Damage Restoration Chicago: What to Do in the First 24 Hours",
     slug: "/blog/water-damage-restoration-chicago-first-24-hours",
     excerpt: "A burst pipe, flooded basement, or storm damage can turn your Chicago home upside down in minutes. Here's exactly what to do in the first 24 hours to protect your property and speed up restoration.",
@@ -259,5 +309,5 @@ export const blogPosts: BlogPost[] = [
     readTime: "10 min read",
     author: "Biohazard Response Team",
     image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&auto=format&fit=crop&q=80",
-  },
+  }
 ];
