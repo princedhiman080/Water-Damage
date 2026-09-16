@@ -11,6 +11,16 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    title: "Water Damaged Floor Repair Cost Per Square Foot | Chicago Guide",
+    slug: "/blog/water-damaged-floor-repair-cost-per-square-foot-chicago",
+    excerpt: "Floor repair costs vary a lot depending on material, water category, and how long it sat. Here's a realistic per-square-foot breakdown for hardwood, laminate, carpet, and tile in Chicago homes.",
+    category: "Pricing Guide",
+    date: "September 16, 2026",
+    readTime: "7 min read",
+    author: "Chicago Estimating Team",
+    image: "/images/blog/water-damaged-floor-repair-cost.webp",
+  },
+  {
     title: "Is Water Damage Restoration Worth It? | Chicago Homeowner Guide",
     slug: "/blog/is-water-damage-restoration-worth-it-chicago",
     excerpt: "Wondering if water damage restoration is worth the cost? See how it affects home value, insurance, and long-term safety for Chicago homeowners before you decide.",
